@@ -9,8 +9,4 @@ We welcome contributions from the community! Whether you're fixing bugs, improvi
 - Respect our coding standards and project goals  
 - Join the conversation on Discord: [discord.phast.gg](https://discord.phast.gg)
 
-## 👩‍💻 Resources
-- 📚 Documentation: [phastgg/docs](https://docs.phast.gg/)  
-- 🔧 Minecraft Toolkit: [phastgg/helios](https://github.com/phastgg/helios)  
-
 Feel free to explore, contribute, or reach out.
